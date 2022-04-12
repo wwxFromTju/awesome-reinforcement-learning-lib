@@ -15,12 +15,14 @@
 |pytorch|pytorch-a2c-ppo-acktr-gail   |2800  |https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail|    |     |       |
 |jax, tensorflow-2.x|acme                         |2600  |https://github.com/deepmind/acme             |    |     |       |
 |pytorch|rela                         |2586  |https://github.com/facebookresearch/rela     |    |     |       |
+|pytorch|DouZero                         |2500  |https://github.com/kwai/DouZero         |    |     |       |
 |paddle, pytorch|PARL                         |2500  |https://github.com/PaddlePaddle/PARL         |    |     |       |
 |tensorflow-2.x, tesorflow-1.x|Agent                        |2200  |https://github.com/tensorflow/agents         |    |     |       |
 |tesorflow-1.x|coach                        |2100  |https://github.com/IntelLabs/coach           |    |     |       |
 |pytorch|https://github.com/astooke/rlpyt|2000  |https://github.com/astooke/rlpyt             |    |     |       |
 |pytorch|https://github.com/rail-berkeley/rlkit|1900  |https://github.com/rail-berkeley/rlkit       |    |     |       |
 |pytorch|ElegantRL                    |1900  |https://github.com/AI4Finance-Foundation/ElegantRL|    |     |       |
+|pytorch|RLCard                         |1700  |https://github.com/datamllab/rlcard         |    |     |       |
 |tensorflow-2.x|garage                       |1400  |https://github.com/rlworkgroup/garage        |    |     |       |
 |chainer|ChainerRL                    |1000  |https://github.com/chainer/chainerrl         |    |     |       |
 |pytorch|SLM-Lab                      |1000  |https://github.com/kengz/SLM-Lab             |    |     |       |
