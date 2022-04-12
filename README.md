@@ -81,6 +81,7 @@
 |pytorch|mrl                          |78    |https://github.com/spitis/mrl                |    |     |       |
 |nnabla |https://github.com/sony/nnabla-rl|76    |https://github.com/sony/nnabla-rl            |    |     |       |
 |tensorflow-2.x|deep_ope                     |62    |https://github.com/google-research/deep_ope  |    |     |       |
+|pytorch|ILSwiss                     |61    |https://github.com/Ericonaldo/ILSwiss  |    |     |       |
 |tesorflow-1.x|https://github.com/google/simple-reinforcement-learning|55    |https://github.com/google/simple-reinforcement-learning|    |     |       |
 |pytorch|pomdp-baselines              |55    |https://github.com/twni2016/pomdp-baselines  |    |     |       |
 |pytorch|safeRL                       |48    |https://github.com/hari-sikchi/safeRL        |    |     |       |
