@@ -77,6 +77,7 @@
 |pytorch|https://github.com/cyoon1729/distributedRL|92    |https://github.com/cyoon1729/distributedRL   |    |     |       |
 |tensorflow-2.x|RLDS                         |92    |https://github.com/google-research/rlds      |    |     |       |
 |jax, pytorch|rlberry                      |92    |https://github.com/rlberry-py/rlberry/blob/main/setup.py|    |     |       |
+|jax|magi                      |82    |https://github.com/ethanluoyc/magi|    |     |       |
 |jax    |coax                         |80    |https://github.com/coax-dev/coax             |    |     |       |
 |pytorch|mrl                          |78    |https://github.com/spitis/mrl                |    |     |       |
 |nnabla |https://github.com/sony/nnabla-rl|76    |https://github.com/sony/nnabla-rl            |    |     |       |
@@ -84,6 +85,8 @@
 |pytorch|ILSwiss                     |61    |https://github.com/Ericonaldo/ILSwiss  |    |     |       |
 |tesorflow-1.x|https://github.com/google/simple-reinforcement-learning|55    |https://github.com/google/simple-reinforcement-learning|    |     |       |
 |pytorch|pomdp-baselines              |55    |https://github.com/twni2016/pomdp-baselines  |    |     |       |
+|jax|rljax              |55    |https://github.com/ku2482/rljax  |    |     |       |
+|jax|jax-rl              |51    |https://github.com/henry-prior/jax-rl  |    |     |       |
 |pytorch|safeRL                       |48    |https://github.com/hari-sikchi/safeRL        |    |     |       |
 |       |cpprb                        |48    |https://github.com/ymd-h/cpprb               |    |     |       |
 |pytorch|https://github.com/qlan3/Explorer|46    |https://github.com/qlan3/Explorer            |    |     |       |
