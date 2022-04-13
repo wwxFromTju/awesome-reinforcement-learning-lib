@@ -105,6 +105,7 @@
 |       |memoire|18    |https://github.com/lns/memoire               |    |     |       |
 |tesorflow-1.x|gala|17    |https://github.com/facebookresearch/gala     |    |     |       |
 |pytorch|HTS-RL|16    |https://github.com/IouJenLiu/HTS-RL          |    |     |       |
+|pytorch|MARS|15    |https://github.com/quantumiracle/MARS          |    |     |       |
 |pytorch|nxdo                         |13    |https://github.com/indylab/nxdo              |    |     |       |
 |pytorch|coltra-rl                    |8     |https://github.com/RedTachyon/coltra-rl      |    |     |       |
 |pytorch|fast-marl                    |5     |https://github.com/semitable/fast-marl       |    |     |       |
