@@ -40,6 +40,7 @@
 |jax, tensorflow-2.x|https://github.com/deepmind/reverb|550   |https://github.com/deepmind/reverb           |    |     |       |
 |tensorflow-2.x|deer                         |468   |https://github.com/VinF/deer                 |    |     |       |
 |pytorch|https://github.com/SurrealAI/surreal|465   |https://github.com/SurrealAI/surreal         |    |     |       |
+|pytorch|DI-engine|463   |https://github.com/opendilab/DI-engine         |    |     |       |
 |pytorch|https://github.com/medipixel/rl_algorithms|439   |https://github.com/medipixel/rl_algorithms   |    |     |       |
 |pytorch|https://github.com/lcswillems/rl-starter-files|434   |https://github.com/lcswillems/rl-starter-files|    |     |       |
 |pytorch|https://github.com/dongminlee94/deep_rl|434   |https://github.com/dongminlee94/deep_rl      |    |     |       |
