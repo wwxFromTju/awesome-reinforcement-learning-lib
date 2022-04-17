@@ -1,3 +1,10 @@
+[RL Lib](#rl-lib)
+
+[RL Accelerated Env](#rl-accelerated-env)
+
+# RL Lib
+<spac id='rl-lib'/>
+
 |Library|Name                         |Star  |Repo Link                                    |Type|Algos|Summary|
 |-------|-----------------------------|------|---------------------------------------------|----|-----|-------|
 |pytorch, tensorflow-2.x|Ray-RLLib                    |19000 |https://github.com/ray-project/ray           |TODO|TODO |       |
@@ -111,4 +118,18 @@
 |pytorch|fast-marl                    |5     |https://github.com/semitable/fast-marl       |    |     |       |
 |pytorch|cause-life-is-a-game|4     |https://github.com/cpuheater/cause-life-is-a-game|    |     |       |
 |       |kiox                         |1     |https://github.com/takuseno/kiox             |    |     |       |
+
+
+# RL Accelerated Env
+<spac id='rl-accelerated-env'/>
+
+|Name     |Accelerate Type|Property                     |URL                                                                                         |paper                                                                                     |
+|---------|---------------|-----------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|vec_env  |subproc        |all                          |eg: https://github.com/openai/baselines/tree/master/baselines/common/vec_env                |-                                                                                         |
+|envpool  |cpp            |Atari, Compilable environment|https://github.com/sail-sg/envpool                                                          |-                                                                                         |
+|ELF      |cpp            |Game in cpp, MiniRTS         |https://github.com/facebookresearch/ELF                                                     |ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games|
+|Cule     |gpu            |Atari                        |https://github.com/NVlabs/cule                                                              |Accelerating reinforcement learning through gpu atari emulation                           |
+|Brax     |gpu            |robot                        |https://github.com/google/brax                                                              |Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation              |
+|isaacgym |gpu            |robot                        |1: https://github.com/NVIDIA-Omniverse/IsaacGymEnvs 2：https://developer.nvidia.com/isaac-gym|Isaac Gym: High Performance GPU Based Physics Simulation For Robot Learning               |
+|WarpDrive|gpu            |multiagent                   |https://github.com/salesforce/warp-drive                                                    |WARPDRIVE: EXTREMELY FAST END-TO-END DEEP MULTI-AGENT REINFORCEMENT LEARNING ON A GPU     |
 
