@@ -75,6 +75,7 @@
 |tesorflow-1.x|stable-baselines             |201   |https://github.com/Stable-Baselines-Team/stable-baselines|    |     |       |
 |tesorflow-1.x|paac|199   |https://github.com/Alfredvc/paac             |    |     |       |
 |pytorch|url_benchmark                |193   |https://github.com/rll-research/url_benchmark|    |     |       |
+|pytorch|adeptRL                |193   |https://github.com/heronsystems/adeptRL|    |     |       |
 |tesorflow-1.x|ape-x|182   |https://github.com/uber-research/ape-x       |    |     |       |
 |pytorch|godot_rl_agents              |179   |https://github.com/edbeeching/godot_rl_agents|    |     |       |
 |pytorch|mtrl|138   |https://github.com/facebookresearch/mtrl     |    |     |       |
