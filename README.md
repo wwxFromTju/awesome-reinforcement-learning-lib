@@ -72,6 +72,7 @@
 |tesorflow-1.x|xingtian                     |230   |https://github.com/huawei-noah/xingtian      |    |     |       |
 |numpy  |simple_rl                    |216   |https://github.com/david-abel/simple_rl      |    |     |       |
 |pytorch|HandyRL|215   |https://github.com/DeNA/HandyRL              |    |     |       |
+|pytorch|RL Games|208   |https://github.com/Denys88/rl_games              |    |     |       |
 |tesorflow-1.x|stable-baselines             |201   |https://github.com/Stable-Baselines-Team/stable-baselines|    |     |       |
 |tesorflow-1.x|paac|199   |https://github.com/Alfredvc/paac             |    |     |       |
 |pytorch|url_benchmark                |193   |https://github.com/rll-research/url_benchmark|    |     |       |
