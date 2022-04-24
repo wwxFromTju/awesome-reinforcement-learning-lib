@@ -102,6 +102,7 @@
 |pytorch|safeRL                       |48    |https://github.com/hari-sikchi/safeRL        |    |     |       |
 |       |cpprb                        |48    |https://github.com/ymd-h/cpprb               |    |     |       |
 |pytorch|Explorer|46    |https://github.com/qlan3/Explorer            |    |     |       |
+|pytorch|raylab|45    |https://github.com/0xangelo/raylab            |    |     |       |
 |theano |accel_rl|42    |https://github.com/astooke/accel_rl          |    |     |       |
 |pytorch, tensorflow-2.x|COBS|41    |https://github.com/clvoloshin/COBS           |    |     |       |
 |pytorch|YARR【x】                      |39    |https://github.com/stepjam/YARR              |    |     |       |
