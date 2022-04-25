@@ -111,7 +111,6 @@
 |tesorflow-1.x|dapo                         |32    |https://github.com/lns/dapo                  |    |     |       |
 |tensorflow-2.x|deep_reinforcement_learning_gallery|32    |https://github.com/horoiwa/deep_reinforcement_learning_gallery|    |     |       |
 |pytorch|Rainy|31    |https://github.com/kngwyu/Rainy              |    |     |       |
-|pytorch|raylab                       |30    |https://github.com/0xangelo/raylab           |    |     |       |
 |       |memoire|18    |https://github.com/lns/memoire               |    |     |       |
 |tesorflow-1.x|gala|17    |https://github.com/facebookresearch/gala     |    |     |       |
 |pytorch|HTS-RL|16    |https://github.com/IouJenLiu/HTS-RL          |    |     |       |
