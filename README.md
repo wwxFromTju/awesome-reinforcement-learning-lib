@@ -79,6 +79,7 @@
 |pytorch|adeptRL                |193   |https://github.com/heronsystems/adeptRL|    |     |       |
 |tesorflow-1.x|ape-x|182   |https://github.com/uber-research/ape-x       |    |     |       |
 |pytorch|godot_rl_agents              |179   |https://github.com/edbeeching/godot_rl_agents|    |     |       |
+|numpy|pymdp|163   |https://github.com/infer-actively/pymdp     |    |     |       |
 |pytorch|mtrl|138   |https://github.com/facebookresearch/mtrl     |    |     |       |
 |pytorch|torchrl                      |138   |https://github.com/RchalYang/torchrl         |    |     |       |
 |tesorflow-1.x|EasyRL                       |135   |https://github.com/alibaba/EasyReinforcementLearning|    |     |       |
