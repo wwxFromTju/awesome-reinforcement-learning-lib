@@ -1,138 +1,136 @@
+# Awesome Reinforcement Learning Library
+
 [RL Lib](#rl-lib)
 
 [RL Accelerated Env](#rl-accelerated-env)
 
-# RL Lib
-<spac id='rl-lib'/>
-
-|Library|Name                         |Star  |Repo Link                                    |Type|Algos|Summary|
-|-------|-----------------------------|------|---------------------------------------------|----|-----|-------|
-|pytorch, tensorflow-2.x|Ray-RLLib                    |19000 |https://github.com/ray-project/ray           |TODO|TODO |       |
-|tesorflow-1.x|baselines|12500 |https://github.com/openai/baselines          |    |     |       |
-|tensorflow-2.x, tesorflow-1.x|dopamine                     |9800  |https://github.com/google/dopamine           |    |     |       |
-|tensorflow-2.x|tensorlayer                  |7000  |https://github.com/tensorlayer/TensorLayer   |    |     |       |
-|pytorch, tesorflow-1.x|spinningup                   |6800  |https://github.com/openai/spinningup         |    |     |       |
-|pytorch|tianshou|4500  |https://github.com/thu-ml/tianshou           |    |     |       |
-|pytorch|Deep-Reinforcement-Learning-Algorithms-with-PyTorch|4200  |https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch|    |     |       |
-|pytorch|stable-baselines3            |3300  |https://github.com/DLR-RM/stable-baselines3  |    |     |       |
-|pytorch|ReAgent                      |3200  |https://github.com/facebookresearch/ReAgent  |    |     |       |
-|tensorflow-2.x, tesorflow-1.x|trfl                         |3100  |https://github.com/deepmind/trfl             |    |     |       |
-|pytorch, tensorflow-2.x|open_spiel                   |3100  |https://github.com/deepmind/open_spiel       |    |     |       |
-|tensorflow-2.x|tensorforce                  |3100  |https://github.com/tensorforce/tensorforce   |    |     |       |
-|pytorch|pytorch-a2c-ppo-acktr-gail   |2800  |https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail|    |     |       |
-|jax, tensorflow-2.x|acme                         |2600  |https://github.com/deepmind/acme             |    |     |       |
-|pytorch|rela                         |2586  |https://github.com/facebookresearch/rela     |    |     |       |
-|pytorch|DouZero                         |2500  |https://github.com/kwai/DouZero         |    |     |       |
-|paddle, pytorch|PARL                         |2500  |https://github.com/PaddlePaddle/PARL         |    |     |       |
-|tensorflow-2.x, tesorflow-1.x|Agent                        |2200  |https://github.com/tensorflow/agents         |    |     |       |
-|tesorflow-1.x|coach                        |2100  |https://github.com/IntelLabs/coach           |    |     |       |
-|pytorch|rlpyt|2000  |https://github.com/astooke/rlpyt             |    |     |       |
-|pytorch|rlkit|1900  |https://github.com/rail-berkeley/rlkit       |    |     |       |
-|pytorch|ElegantRL                    |1900  |https://github.com/AI4Finance-Foundation/ElegantRL|    |     |       |
-|pytorch|RLCard                         |1700  |https://github.com/datamllab/rlcard         |    |     |       |
-|tensorflow-2.x|garage                       |1400  |https://github.com/rlworkgroup/garage        |    |     |       |
-|chainer|ChainerRL                    |1000  |https://github.com/chainer/chainerrl         |    |     |       |
-|pytorch|SLM-Lab                      |1000  |https://github.com/kengz/SLM-Lab             |    |     |       |
-|tesorflow-1.x|batch-ppo|953   |https://github.com/google-research/batch-ppo |    |     |       |
-|tesorflow-1.x|scalable_agent|897   |https://github.com/deepmind/scalable_agent   |    |     |       |
-|pytorch|pfrl                         |813   |https://github.com/pfnet/pfrl                |    |     |       |
-|pytorch|cleanrl                      |773   |https://github.com/vwxyzjn/cleanrl           |    |     |       |
-|tensorflow-2.x|seed_rl|708   |https://github.com/google-research/seed_rl   |    |     |       |
-|pytorch|torchbeast|631   |https://github.com/facebookresearch/torchbeast|    |     |       |
-|tesorflow-1.x|GA3C|619   |https://github.com/NVlabs/GA3C               |    |     |       |
-|pytorch|MBRL-Lib                     |598   |https://github.com/facebookresearch/mbrl-lib |    |     |       |
-|pytorch|d3rlpy|582   |https://github.com/takuseno/d3rlpy           |    |     |       |
-|pytorch|mushroom-rl|575   |https://github.com/MushroomRL/mushroom-rl    |    |     |       |
-|pytorch|autonomous-learning-library|554   |https://github.com/cpnota/autonomous-learning-library|    |     |       |
-|jax, tensorflow-2.x|reverb|550   |https://github.com/deepmind/reverb           |    |     |       |
-|tensorflow-2.x|deer                         |468   |https://github.com/VinF/deer                 |    |     |       |
-|pytorch|surreal|465   |https://github.com/SurrealAI/surreal         |    |     |       |
-|pytorch|DI-engine|463   |https://github.com/opendilab/DI-engine         |    |     |       |
-|pytorch|rl_algorithms|439   |https://github.com/medipixel/rl_algorithms   |    |     |       |
-|pytorch|rl-starter-files|434   |https://github.com/lcswillems/rl-starter-files|    |     |       |
-|pytorch|deep_rl|434   |https://github.com/dongminlee94/deep_rl      |    |     |       |
-|pytorch|salina                       |390   |https://github.com/facebookresearch/salina   |    |     |       |
-|pytorch|genrl                        |376   |https://github.com/SforAiDl/genrl            |    |     |       |
-|pytorch|lagom                        |367   |https://github.com/zuoxingdong/lagom         |    |     |       |
-|pytorch|RLs                          |366   |https://github.com/StepNeverStop/RLs         |    |     |       |
-|pytorch|Deep-Reinforcement-Learning-Algorithms|346   |https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms|    |     |       |
-|tensorflow-2.x|batch_rl                     |340   |https://github.com/google-research/batch_rl  |    |     |       |
-|pytorch|rl-agents|336   |https://github.com/eleurent/rl-agents        |    |     |       |
-|pytorch, tensorflow-2.x|tonic                        |333   |https://github.com/fabiopardo/tonic          |    |     |       |
-|pytorch|sample-factory               |320   |https://github.com/alex-petrenko/sample-factory|    |     |       |
-|pytorch, tesorflow-1.x|rlgraph                      |291   |https://github.com/rlgraph/rlgraph           |    |     |       |
-|jax    |jaxrl                        |291   |https://github.com/ikostrikov/jaxrl          |    |     |       |
-|pytorch|JORLDY|286   |https://github.com/kakaoenterprise/JORLDY    |    |     |       |
-|pytorch|machin|283   |https://github.com/iffiX/machin              |    |     |       |
-|pytorch|malib|277   |https://github.com/sjtu-marl/malib           |    |     |       |
-|pytorch|rlstructures                 |264   |https://github.com/facebookresearch/rlstructures|    |     |       |
-|pytorch|rlmeta                       |258   |https://github.com/facebookresearch/rlmeta   |    |     |       |
-|pytorch, tensorflow-2.x|DeepRL_Algorithms|237   |https://github.com/RITCHIEHuang/DeepRL_Algorithms|    |     |       |
-|pytorch|RLcycle|233   |https://github.com/kngwyu/Rainy              |    |     |       |
-|tesorflow-1.x|xingtian                     |230   |https://github.com/huawei-noah/xingtian      |    |     |       |
-|numpy  |simple_rl                    |216   |https://github.com/david-abel/simple_rl      |    |     |       |
-|pytorch|HandyRL|215   |https://github.com/DeNA/HandyRL              |    |     |       |
-|pytorch|RL Games|208   |https://github.com/Denys88/rl_games              |    |     |       |
-|tesorflow-1.x|stable-baselines             |201   |https://github.com/Stable-Baselines-Team/stable-baselines|    |     |       |
-|tesorflow-1.x|paac|199   |https://github.com/Alfredvc/paac             |    |     |       |
-|pytorch|url_benchmark                |193   |https://github.com/rll-research/url_benchmark|    |     |       |
-|pytorch|adeptRL                |193   |https://github.com/heronsystems/adeptRL|    |     |       |
-|tesorflow-1.x|ape-x|182   |https://github.com/uber-research/ape-x       |    |     |       |
-|pytorch|godot_rl_agents              |179   |https://github.com/edbeeching/godot_rl_agents|    |     |       |
-|numpy|pymdp|163   |https://github.com/infer-actively/pymdp     |    |     |       |
-|pytorch|mtrl|138   |https://github.com/facebookresearch/mtrl     |    |     |       |
-|pytorch|torchrl                      |138   |https://github.com/RchalYang/torchrl         |    |     |       |
-|tesorflow-1.x|EasyRL                       |135   |https://github.com/alibaba/EasyReinforcementLearning|    |     |       |
-|tesorflow-1.x|tleague_projpagepage|114   |https://github.com/tencent-ailab/tleague_projpage|    |     |       |
-|jax    |deluca                       |106   |https://github.com/google/deluca             |    |     |       |
-|pytorch|epymarl                      |103   |https://github.com/uoe-agents/epymarl        |    |     |       |
-|pytorch|rl                           |100   |https://github.com/facebookresearch/rl       |    |     |       |
-|pytorch|distributedRL|92    |https://github.com/cyoon1729/distributedRL   |    |     |       |
-|tensorflow-2.x|RLDS                         |92    |https://github.com/google-research/rlds      |    |     |       |
-|jax, pytorch|rlberry                      |92    |https://github.com/rlberry-py/rlberry/blob/main/setup.py|    |     |       |
-|jax|magi                      |82    |https://github.com/ethanluoyc/magi|    |     |       |
-|jax    |coax                         |80    |https://github.com/coax-dev/coax             |    |     |       |
-|pytorch|mrl                          |78    |https://github.com/spitis/mrl                |    |     |       |
-|nnabla |nnabla-rl|76    |https://github.com/sony/nnabla-rl            |    |     |       |
-|tensorflow-2.x|deep_ope                     |62    |https://github.com/google-research/deep_ope  |    |     |       |
-|pytorch|ILSwiss                     |61    |https://github.com/Ericonaldo/ILSwiss  |    |     |       |
-|tesorflow-1.x|simple-reinforcement-learning|55    |https://github.com/google/simple-reinforcement-learning|    |     |       |
-|pytorch|pomdp-baselines              |55    |https://github.com/twni2016/pomdp-baselines  |    |     |       |
-|jax|rljax              |55    |https://github.com/ku2482/rljax  |    |     |       |
-|jax|jax-rl              |51    |https://github.com/henry-prior/jax-rl  |    |     |       |
-|pytorch|safeRL                       |48    |https://github.com/hari-sikchi/safeRL        |    |     |       |
-|       |cpprb                        |48    |https://github.com/ymd-h/cpprb               |    |     |       |
-|pytorch|Explorer|46    |https://github.com/qlan3/Explorer            |    |     |       |
-|pytorch|raylab|45    |https://github.com/0xangelo/raylab            |    |     |       |
-|theano |accel_rl|42    |https://github.com/astooke/accel_rl          |    |     |       |
-|pytorch, tensorflow-2.x|COBS|41    |https://github.com/clvoloshin/COBS           |    |     |       |
-|pytorch|YARR【x】                      |39    |https://github.com/stepjam/YARR              |    |     |       |
-|tensorflow-2.x|QuaRL                        |38    |https://github.com/harvard-edge/QuaRL        |    |     |       |
-|pytorch|apex                         |33    |https://github.com/osudrl/apex               |    |     |       |
-|tesorflow-1.x|dapo                         |32    |https://github.com/lns/dapo                  |    |     |       |
-|tensorflow-2.x|deep_reinforcement_learning_gallery|32    |https://github.com/horoiwa/deep_reinforcement_learning_gallery|    |     |       |
-|pytorch|Rainy|31    |https://github.com/kngwyu/Rainy              |    |     |       |
-|       |memoire|18    |https://github.com/lns/memoire               |    |     |       |
-|tesorflow-1.x|gala|17    |https://github.com/facebookresearch/gala     |    |     |       |
-|pytorch|HTS-RL|16    |https://github.com/IouJenLiu/HTS-RL          |    |     |       |
-|pytorch|MARS|15    |https://github.com/quantumiracle/MARS          |    |     |       |
-|pytorch|nxdo                         |13    |https://github.com/indylab/nxdo              |    |     |       |
-|pytorch|coltra-rl                    |8     |https://github.com/RedTachyon/coltra-rl      |    |     |       |
-|pytorch|fast-marl                    |5     |https://github.com/semitable/fast-marl       |    |     |       |
-|pytorch|cause-life-is-a-game|4     |https://github.com/cpuheater/cause-life-is-a-game|    |     |       |
-|       |kiox                         |1     |https://github.com/takuseno/kiox             |    |     |       |
+## RL Lib
+|Star  |Name                         |Library|Repo Link                                    |
+|------|-----------------------------|-------|---------------------------------------------|
+|[![GitHub stars](https://img.shields.io/github/stars/ray-project/ray)](https://github.com/ray-project/ray/stargazers)|Ray-RLLib                    |pytorch, tensorflow-2.x|https://github.com/ray-project/ray           |
+|[![GitHub stars](https://img.shields.io/github/stars/openai/baselines)](https://github.com/openai/baselines/stargazers)|baselines|tesorflow-1.x|https://github.com/openai/baselines          |
+|[![GitHub stars](https://img.shields.io/github/stars/google/dopamine)](https://github.com/google/dopamine/stargazers)|dopamine                     |tensorflow-2.x, tesorflow-1.x|https://github.com/google/dopamine           |
+|[![GitHub stars](https://img.shields.io/github/stars/tensorlayer/TensorLayer)](https://github.com/tensorlayer/TensorLayer/stargazers)|tensorlayer                  |tensorflow-2.x|https://github.com/tensorlayer/TensorLayer   |
+|[![GitHub stars](https://img.shields.io/github/stars/openai/spinningup)](https://github.com/openai/spinningup/stargazers)|spinningup                   |pytorch, tesorflow-1.x|https://github.com/openai/spinningup         |
+|[![GitHub stars](https://img.shields.io/github/stars/thu-ml/tianshou)](https://github.com/thu-ml/tianshou/stargazers)|tianshou|pytorch|https://github.com/thu-ml/tianshou           |
+|[![GitHub stars](https://img.shields.io/github/stars/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch/stargazers)|Deep-Reinforcement-Learning-Algorithms-with-PyTorch|pytorch|https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch|
+|[![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3)](https://github.com/DLR-RM/stable-baselines3/stargazers)|stable-baselines3            |pytorch|https://github.com/DLR-RM/stable-baselines3  |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/ReAgent)](https://github.com/facebookresearch/ReAgent/stargazers)|ReAgent                      |pytorch|https://github.com/facebookresearch/ReAgent  |
+|[![GitHub stars](https://img.shields.io/github/stars/deepmind/open_spiel)](https://github.com/deepmind/open_spiel/stargazers)|open_spiel                   |pytorch, tensorflow-2.x|https://github.com/deepmind/open_spiel       |
+|[![GitHub stars](https://img.shields.io/github/stars/deepmind/trfl)](https://github.com/deepmind/trfl/stargazers)|trfl                         |tensorflow-2.x, tesorflow-1.x|https://github.com/deepmind/trfl             |
+|[![GitHub stars](https://img.shields.io/github/stars/tensorforce/tensorforce)](https://github.com/tensorforce/tensorforce/stargazers)|tensorforce                  |tensorflow-2.x|https://github.com/tensorforce/tensorforce   |
+|[![GitHub stars](https://img.shields.io/github/stars/ikostrikov/pytorch-a2c-ppo-acktr-gail)](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail/stargazers)|pytorch-a2c-ppo-acktr-gail   |pytorch|https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail|
+|[![GitHub stars](https://img.shields.io/github/stars/deepmind/acme)](https://github.com/deepmind/acme/stargazers)|acme                         |jax, tensorflow-2.x|https://github.com/deepmind/acme             |
+|[![GitHub stars](https://img.shields.io/github/stars/kwai/DouZero)](https://github.com/kwai/DouZero/stargazers)|DouZero                         |pytorch|https://github.com/kwai/DouZero         |
+|[![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PARL)](https://github.com/PaddlePaddle/PARL/stargazers)|PARL                         |paddle, pytorch|https://github.com/PaddlePaddle/PARL         |
+|[![GitHub stars](https://img.shields.io/github/stars/tensorflow/agents)](https://github.com/tensorflow/agents/stargazers)|Agent                        |tensorflow-2.x, tesorflow-1.x|https://github.com/tensorflow/agents         |
+|[![GitHub stars](https://img.shields.io/github/stars/IntelLabs/coach)](https://github.com/IntelLabs/coach/stargazers)|coach                        |tesorflow-1.x|https://github.com/IntelLabs/coach           |
+|[![GitHub stars](https://img.shields.io/github/stars/astooke/rlpyt)](https://github.com/astooke/rlpyt/stargazers)|rlpyt|pytorch|https://github.com/astooke/rlpyt             |
+|[![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/ElegantRL)](https://github.com/AI4Finance-Foundation/ElegantRL/stargazers)|ElegantRL                    |pytorch|https://github.com/AI4Finance-Foundation/ElegantRL|
+|[![GitHub stars](https://img.shields.io/github/stars/rail-berkeley/rlkit)](https://github.com/rail-berkeley/rlkit/stargazers)|rlkit|pytorch|https://github.com/rail-berkeley/rlkit       |
+|[![GitHub stars](https://img.shields.io/github/stars/datamllab/rlcard)](https://github.com/datamllab/rlcard/stargazers)|RLCard                         |pytorch|https://github.com/datamllab/rlcard         |
+|[![GitHub stars](https://img.shields.io/github/stars/rlworkgroup/garage)](https://github.com/rlworkgroup/garage/stargazers)|garage                       |tensorflow-2.x|https://github.com/rlworkgroup/garage        |
+|[![GitHub stars](https://img.shields.io/github/stars/kengz/SLM-Lab)](https://github.com/kengz/SLM-Lab/stargazers)|SLM-Lab                      |pytorch|https://github.com/kengz/SLM-Lab             |
+|[![GitHub stars](https://img.shields.io/github/stars/chainer/chainerrl)](https://github.com/chainer/chainerrl/stargazers)|ChainerRL                    |chainer|https://github.com/chainer/chainerrl         |
+|[![GitHub stars](https://img.shields.io/github/stars/google-research/batch-ppo)](https://github.com/google-research/batch-ppo/stargazers)|batch-ppo|tesorflow-1.x|https://github.com/google-research/batch-ppo |
+|[![GitHub stars](https://img.shields.io/github/stars/deepmind/scalable_agent)](https://github.com/deepmind/scalable_agent/stargazers)|scalable_agent|tesorflow-1.x|https://github.com/deepmind/scalable_agent   |
+|[![GitHub stars](https://img.shields.io/github/stars/vwxyzjn/cleanrl)](https://github.com/vwxyzjn/cleanrl/stargazers)|cleanrl                      |pytorch|https://github.com/vwxyzjn/cleanrl           |
+|[![GitHub stars](https://img.shields.io/github/stars/pfnet/pfrl)](https://github.com/pfnet/pfrl/stargazers)|pfrl                         |pytorch|https://github.com/pfnet/pfrl                |
+|[![GitHub stars](https://img.shields.io/github/stars/google-research/seed_rl)](https://github.com/google-research/seed_rl/stargazers)|seed_rl|tensorflow-2.x|https://github.com/google-research/seed_rl   |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/torchbeast)](https://github.com/facebookresearch/torchbeast/stargazers)|torchbeast|pytorch|https://github.com/facebookresearch/torchbeast|
+|[![GitHub stars](https://img.shields.io/github/stars/NVlabs/GA3C)](https://github.com/NVlabs/GA3C/stargazers)|GA3C|tesorflow-1.x|https://github.com/NVlabs/GA3C               |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/mbrl-lib)](https://github.com/facebookresearch/mbrl-lib/stargazers)|MBRL-Lib                     |pytorch|https://github.com/facebookresearch/mbrl-lib |
+|[![GitHub stars](https://img.shields.io/github/stars/takuseno/d3rlpy)](https://github.com/takuseno/d3rlpy/stargazers)|d3rlpy|pytorch|https://github.com/takuseno/d3rlpy           |
+|[![GitHub stars](https://img.shields.io/github/stars/MushroomRL/mushroom-rl)](https://github.com/MushroomRL/mushroom-rl/stargazers)|mushroom-rl|pytorch|https://github.com/MushroomRL/mushroom-rl    |
+|[![GitHub stars](https://img.shields.io/github/stars/cpnota/autonomous-learning-library)](https://github.com/cpnota/autonomous-learning-library/stargazers)|autonomous-learning-library|pytorch|https://github.com/cpnota/autonomous-learning-library|
+|[![GitHub stars](https://img.shields.io/github/stars/deepmind/reverb)](https://github.com/deepmind/reverb/stargazers)|reverb|jax, tensorflow-2.x|https://github.com/deepmind/reverb           |
+|[![GitHub stars](https://img.shields.io/github/stars/opendilab/DI-engine)](https://github.com/opendilab/DI-engine/stargazers)|DI-engine|pytorch|https://github.com/opendilab/DI-engine         |
+|[![GitHub stars](https://img.shields.io/github/stars/VinF/deer)](https://github.com/VinF/deer/stargazers)|deer                         |tensorflow-2.x|https://github.com/VinF/deer                 |
+|[![GitHub stars](https://img.shields.io/github/stars/SurrealAI/surreal)](https://github.com/SurrealAI/surreal/stargazers)|surreal|pytorch|https://github.com/SurrealAI/surreal         |
+|[![GitHub stars](https://img.shields.io/github/stars/medipixel/rl_algorithms)](https://github.com/medipixel/rl_algorithms/stargazers)|rl_algorithms|pytorch|https://github.com/medipixel/rl_algorithms   |
+|[![GitHub stars](https://img.shields.io/github/stars/dongminlee94/deep_rl)](https://github.com/dongminlee94/deep_rl/stargazers)|deep_rl|pytorch|https://github.com/dongminlee94/deep_rl      |
+|[![GitHub stars](https://img.shields.io/github/stars/lcswillems/rl-starter-files)](https://github.com/lcswillems/rl-starter-files/stargazers)|rl-starter-files|pytorch|https://github.com/lcswillems/rl-starter-files|
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/salina)](https://github.com/facebookresearch/salina/stargazers)|salina                       |pytorch|https://github.com/facebookresearch/salina   |
+|[![GitHub stars](https://img.shields.io/github/stars/SforAiDl/genrl)](https://github.com/SforAiDl/genrl/stargazers)|genrl                        |pytorch|https://github.com/SforAiDl/genrl            |
+|[![GitHub stars](https://img.shields.io/github/stars/StepNeverStop/RLs)](https://github.com/StepNeverStop/RLs/stargazers)|RLs                          |pytorch|https://github.com/StepNeverStop/RLs         |
+|[![GitHub stars](https://img.shields.io/github/stars/zuoxingdong/lagom)](https://github.com/zuoxingdong/lagom/stargazers)|lagom                        |pytorch|https://github.com/zuoxingdong/lagom         |
+|[![GitHub stars](https://img.shields.io/github/stars/Rafael1s/Deep-Reinforcement-Learning-Algorithms)](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/stargazers)|Deep-Reinforcement-Learning-Algorithms|pytorch|https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms|
+|[![GitHub stars](https://img.shields.io/github/stars/eleurent/rl-agents)](https://github.com/eleurent/rl-agents/stargazers)|rl-agents|pytorch|https://github.com/eleurent/rl-agents        |
+|[![GitHub stars](https://img.shields.io/github/stars/google-research/batch_rl)](https://github.com/google-research/batch_rl/stargazers)|batch_rl                     |tensorflow-2.x|https://github.com/google-research/batch_rl  |
+|[![GitHub stars](https://img.shields.io/github/stars/fabiopardo/tonic)](https://github.com/fabiopardo/tonic/stargazers)|tonic                        |pytorch, tensorflow-2.x|https://github.com/fabiopardo/tonic          |
+|[![GitHub stars](https://img.shields.io/github/stars/alex-petrenko/sample-factory)](https://github.com/alex-petrenko/sample-factory/stargazers)|sample-factory               |pytorch|https://github.com/alex-petrenko/sample-factory|
+|[![GitHub stars](https://img.shields.io/github/stars/ikostrikov/jaxrl)](https://github.com/ikostrikov/jaxrl/stargazers)|jaxrl                        |jax    |https://github.com/ikostrikov/jaxrl          |
+|[![GitHub stars](https://img.shields.io/github/stars/kakaoenterprise/JORLDY)](https://github.com/kakaoenterprise/JORLDY/stargazers)|JORLDY|pytorch|https://github.com/kakaoenterprise/JORLDY    |
+|[![GitHub stars](https://img.shields.io/github/stars/rlgraph/rlgraph)](https://github.com/rlgraph/rlgraph/stargazers)|rlgraph                      |pytorch, tesorflow-1.x|https://github.com/rlgraph/rlgraph           |
+|[![GitHub stars](https://img.shields.io/github/stars/iffiX/machin)](https://github.com/iffiX/machin/stargazers)|machin|pytorch|https://github.com/iffiX/machin              |
+|[![GitHub stars](https://img.shields.io/github/stars/sjtu-marl/malib)](https://github.com/sjtu-marl/malib/stargazers)|malib|pytorch|https://github.com/sjtu-marl/malib           |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rlmeta)](https://github.com/facebookresearch/rlmeta/stargazers)|rlmeta                       |pytorch|https://github.com/facebookresearch/rlmeta   |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rlstructures)](https://github.com/facebookresearch/rlstructures/stargazers)|rlstructures                 |pytorch|https://github.com/facebookresearch/rlstructures|
+|[![GitHub stars](https://img.shields.io/github/stars/RITCHIEHuang/DeepRL_Algorithms)](https://github.com/RITCHIEHuang/DeepRL_Algorithms/stargazers)|DeepRL_Algorithms|pytorch, tensorflow-2.x|https://github.com/RITCHIEHuang/DeepRL_Algorithms|
+|[![GitHub stars](https://img.shields.io/github/stars/huawei-noah/xingtian)](https://github.com/huawei-noah/xingtian/stargazers)|xingtian                     |tesorflow-1.x|https://github.com/huawei-noah/xingtian      |
+|[![GitHub stars](https://img.shields.io/github/stars/david-abel/simple_rl)](https://github.com/david-abel/simple_rl/stargazers)|simple_rl                    |numpy  |https://github.com/david-abel/simple_rl      |
+|[![GitHub stars](https://img.shields.io/github/stars/DeNA/HandyRL)](https://github.com/DeNA/HandyRL/stargazers)|HandyRL|pytorch|https://github.com/DeNA/HandyRL              |
+|[![GitHub stars](https://img.shields.io/github/stars/Denys88/rl_games)](https://github.com/Denys88/rl_games/stargazers)|RL Games|pytorch|https://github.com/Denys88/rl_games              |
+|[![GitHub stars](https://img.shields.io/github/stars/Stable-Baselines-Team/stable-baselines)](https://github.com/Stable-Baselines-Team/stable-baselines/stargazers)|stable-baselines             |tesorflow-1.x|https://github.com/Stable-Baselines-Team/stable-baselines|
+|[![GitHub stars](https://img.shields.io/github/stars/rll-research/url_benchmark)](https://github.com/rll-research/url_benchmark/stargazers)|url_benchmark                |pytorch|https://github.com/rll-research/url_benchmark|
+|[![GitHub stars](https://img.shields.io/github/stars/Alfredvc/paac)](https://github.com/Alfredvc/paac/stargazers)|paac|tesorflow-1.x|https://github.com/Alfredvc/paac             |
+|[![GitHub stars](https://img.shields.io/github/stars/edbeeching/godot_rl_agents)](https://github.com/edbeeching/godot_rl_agents/stargazers)|godot_rl_agents              |pytorch|https://github.com/edbeeching/godot_rl_agents|
+|[![GitHub stars](https://img.shields.io/github/stars/heronsystems/adeptRL)](https://github.com/heronsystems/adeptRL/stargazers)|adeptRL                |pytorch|https://github.com/heronsystems/adeptRL|
+|[![GitHub stars](https://img.shields.io/github/stars/uber-research/ape-x)](https://github.com/uber-research/ape-x/stargazers)|ape-x|tesorflow-1.x|https://github.com/uber-research/ape-x       |
+|[![GitHub stars](https://img.shields.io/github/stars/infer-actively/pymdp)](https://github.com/infer-actively/pymdp/stargazers)|pymdp|numpy|https://github.com/infer-actively/pymdp     |
+|[![GitHub stars](https://img.shields.io/github/stars/RchalYang/torchrl)](https://github.com/RchalYang/torchrl/stargazers)|torchrl                      |pytorch|https://github.com/RchalYang/torchrl         |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/mtrl)](https://github.com/facebookresearch/mtrl/stargazers)|mtrl|pytorch|https://github.com/facebookresearch/mtrl     |
+|[![GitHub stars](https://img.shields.io/github/stars/alibaba/EasyReinforcementLearning)](https://github.com/alibaba/EasyReinforcementLearning/stargazers)|EasyRL                       |tesorflow-1.x|https://github.com/alibaba/EasyReinforcementLearning|
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rl)](https://github.com/facebookresearch/rl/stargazers)|rl                           |pytorch|https://github.com/facebookresearch/rl       |
+|[![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/tleague_projpage)](https://github.com/tencent-ailab/tleague_projpage/stargazers)|tleague_projpagepage|tesorflow-1.x|https://github.com/tencent-ailab/tleague_projpage|
+|[![GitHub stars](https://img.shields.io/github/stars/uoe-agents/epymarl)](https://github.com/uoe-agents/epymarl/stargazers)|epymarl                      |pytorch|https://github.com/uoe-agents/epymarl        |
+|[![GitHub stars](https://img.shields.io/github/stars/google/deluca)](https://github.com/google/deluca/stargazers)|deluca                       |jax    |https://github.com/google/deluca             |
+|[![GitHub stars](https://img.shields.io/github/stars/cyoon1729/distributedRL)](https://github.com/cyoon1729/distributedRL/stargazers)|distributedRL|pytorch|https://github.com/cyoon1729/distributedRL   |
+|[![GitHub stars](https://img.shields.io/github/stars/google-research/rlds)](https://github.com/google-research/rlds/stargazers)|RLDS                         |tensorflow-2.x|https://github.com/google-research/rlds      |
+|[![GitHub stars](https://img.shields.io/github/stars/rlberry-py/rlberry)](https://github.com/rlberry-py/rlberry/stargazers)|rlberry                      |jax, pytorch|https://github.com/rlberry-py/rlberry|
+|[![GitHub stars](https://img.shields.io/github/stars/ethanluoyc/magi)](https://github.com/ethanluoyc/magi/stargazers)|magi                      |jax|https://github.com/ethanluoyc/magi|
+|[![GitHub stars](https://img.shields.io/github/stars/coax-dev/coax)](https://github.com/coax-dev/coax/stargazers)|coax                         |jax    |https://github.com/coax-dev/coax             |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rela)](https://github.com/facebookresearch/rela/stargazers)|rela                         |pytorch|https://github.com/facebookresearch/rela     |
+|[![GitHub stars](https://img.shields.io/github/stars/spitis/mrl)](https://github.com/spitis/mrl/stargazers)|mrl                          |pytorch|https://github.com/spitis/mrl                |
+|[![GitHub stars](https://img.shields.io/github/stars/sony/nnabla-rl)](https://github.com/sony/nnabla-rl/stargazers)|nnabla-rl|nnabla |https://github.com/sony/nnabla-rl            |
+|[![GitHub stars](https://img.shields.io/github/stars/Ericonaldo/ILSwiss)](https://github.com/Ericonaldo/ILSwiss/stargazers)|ILSwiss                     |pytorch|https://github.com/Ericonaldo/ILSwiss  |
+|[![GitHub stars](https://img.shields.io/github/stars/google-research/deep_ope)](https://github.com/google-research/deep_ope/stargazers)|deep_ope                     |tensorflow-2.x|https://github.com/google-research/deep_ope  |
+|[![GitHub stars](https://img.shields.io/github/stars/twni2016/pomdp-baselines)](https://github.com/twni2016/pomdp-baselines/stargazers)|pomdp-baselines              |pytorch|https://github.com/twni2016/pomdp-baselines  |
+|[![GitHub stars](https://img.shields.io/github/stars/ku2482/rljax)](https://github.com/ku2482/rljax/stargazers)|rljax              |jax|https://github.com/ku2482/rljax  |
+|[![GitHub stars](https://img.shields.io/github/stars/google/simple-reinforcement-learning)](https://github.com/google/simple-reinforcement-learning/stargazers)|simple-reinforcement-learning|tesorflow-1.x|https://github.com/google/simple-reinforcement-learning|
+|[![GitHub stars](https://img.shields.io/github/stars/henry-prior/jax-rl)](https://github.com/henry-prior/jax-rl/stargazers)|jax-rl              |jax|https://github.com/henry-prior/jax-rl  |
+|[![GitHub stars](https://img.shields.io/github/stars/ymd-h/cpprb)](https://github.com/ymd-h/cpprb/stargazers)|cpprb                        |       |https://github.com/ymd-h/cpprb               |
+|[![GitHub stars](https://img.shields.io/github/stars/hari-sikchi/safeRL)](https://github.com/hari-sikchi/safeRL/stargazers)|safeRL                       |pytorch|https://github.com/hari-sikchi/safeRL        |
+|[![GitHub stars](https://img.shields.io/github/stars/0xangelo/raylab)](https://github.com/0xangelo/raylab/stargazers)|raylab|pytorch|https://github.com/0xangelo/raylab            |
+|[![GitHub stars](https://img.shields.io/github/stars/qlan3/Explorer)](https://github.com/qlan3/Explorer/stargazers)|Explorer|pytorch|https://github.com/qlan3/Explorer            |
+|[![GitHub stars](https://img.shields.io/github/stars/astooke/accel_rl)](https://github.com/astooke/accel_rl/stargazers)|accel_rl|theano |https://github.com/astooke/accel_rl          |
+|[![GitHub stars](https://img.shields.io/github/stars/clvoloshin/COBS)](https://github.com/clvoloshin/COBS/stargazers)|COBS|pytorch, tensorflow-2.x|https://github.com/clvoloshin/COBS           |
+|[![GitHub stars](https://img.shields.io/github/stars/stepjam/YARR)](https://github.com/stepjam/YARR/stargazers)|YARR                      |pytorch|https://github.com/stepjam/YARR              |
+|[![GitHub stars](https://img.shields.io/github/stars/harvard-edge/QuaRL)](https://github.com/harvard-edge/QuaRL/stargazers)|QuaRL                        |tensorflow-2.x|https://github.com/harvard-edge/QuaRL        |
+|[![GitHub stars](https://img.shields.io/github/stars/osudrl/apex)](https://github.com/osudrl/apex/stargazers)|apex                         |pytorch|https://github.com/osudrl/apex               |
+|[![GitHub stars](https://img.shields.io/github/stars/kngwyu/Rainy)](https://github.com/kngwyu/Rainy/stargazers)|RLcycle|pytorch|https://github.com/kngwyu/Rainy              |
+|[![GitHub stars](https://img.shields.io/github/stars/lns/dapo)](https://github.com/lns/dapo/stargazers)|dapo                         |tesorflow-1.x|https://github.com/lns/dapo                  |
+|[![GitHub stars](https://img.shields.io/github/stars/horoiwa/deep_reinforcement_learning_gallery)](https://github.com/horoiwa/deep_reinforcement_learning_gallery/stargazers)|deep_reinforcement_learning_gallery|tensorflow-2.x|https://github.com/horoiwa/deep_reinforcement_learning_gallery|
+|[![GitHub stars](https://img.shields.io/github/stars/kngwyu/Rainy)](https://github.com/kngwyu/Rainy/stargazers)|Rainy|pytorch|https://github.com/kngwyu/Rainy              |
+|[![GitHub stars](https://img.shields.io/github/stars/lns/memoire)](https://github.com/lns/memoire/stargazers)|memoire|       |https://github.com/lns/memoire               |
+|[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/gala)](https://github.com/facebookresearch/gala/stargazers)|gala|tesorflow-1.x|https://github.com/facebookresearch/gala     |
+|[![GitHub stars](https://img.shields.io/github/stars/IouJenLiu/HTS-RL)](https://github.com/IouJenLiu/HTS-RL/stargazers)|HTS-RL|pytorch|https://github.com/IouJenLiu/HTS-RL          |
+|[![GitHub stars](https://img.shields.io/github/stars/quantumiracle/MARS)](https://github.com/quantumiracle/MARS/stargazers)|MARS|pytorch|https://github.com/quantumiracle/MARS          |
+|[![GitHub stars](https://img.shields.io/github/stars/indylab/nxdo)](https://github.com/indylab/nxdo/stargazers)|nxdo                         |pytorch|https://github.com/indylab/nxdo              |
+|[![GitHub stars](https://img.shields.io/github/stars/RedTachyon/coltra-rl)](https://github.com/RedTachyon/coltra-rl/stargazers)|coltra-rl                    |pytorch|https://github.com/RedTachyon/coltra-rl      |
+|[![GitHub stars](https://img.shields.io/github/stars/semitable/fast-marl)](https://github.com/semitable/fast-marl/stargazers)|fast-marl                    |pytorch|https://github.com/semitable/fast-marl       |
+|[![GitHub stars](https://img.shields.io/github/stars/cpuheater/cause-life-is-a-game)](https://github.com/cpuheater/cause-life-is-a-game/stargazers)|cause-life-is-a-game|pytorch|https://github.com/cpuheater/cause-life-is-a-game|
+|[![GitHub stars](https://img.shields.io/github/stars/takuseno/kiox)](https://github.com/takuseno/kiox/stargazers)|kiox                         |       |https://github.com/takuseno/kiox             |
 
 
 # RL Accelerated Env
-<spac id='rl-accelerated-env'/>
-
-|Name     |Accelerate Type|Property                     |URL                                                                                         |paper                                                                                     |
-|---------|---------------|-----------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|vec_env  |subproc        |all                          |eg: https://github.com/openai/baselines/tree/master/baselines/common/vec_env                |-                                                                                         |
-|envpool  |cpp            |Atari, Compilable environment|https://github.com/sail-sg/envpool                                                          |-                                                                                         |
-|ELF      |cpp            |Game in cpp, MiniRTS         |https://github.com/facebookresearch/ELF                                                     |ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games|
-|Cule     |gpu            |Atari                        |https://github.com/NVlabs/cule                                                              |Accelerating reinforcement learning through gpu atari emulation                           |
-|Brax     |gpu            |robot                        |https://github.com/google/brax                                                              |Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation              |
-|isaacgym |gpu            |robot                        |1: https://github.com/NVIDIA-Omniverse/IsaacGymEnvs 2：https://developer.nvidia.com/isaac-gym|Isaac Gym: High Performance GPU Based Physics Simulation For Robot Learning               |
-|WarpDrive|gpu            |multiagent                   |https://github.com/salesforce/warp-drive                                                    |WARPDRIVE: EXTREMELY FAST END-TO-END DEEP MULTI-AGENT REINFORCEMENT LEARNING ON A GPU     |
-|griddly  |cpp            |grid-world game              |https://github.com/Bam4d/Griddly  |-
+| Star                                                         | Name      | Accelerate Type | Property                                                     | URL                                                          | paper                                                        |
+| ------------------------------------------------------------ | --------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| /                                                            | vec_env   | subproc         | all                                                          | eg: https://github.com/openai/baselines/tree/master/baselines/common/vec_env | -                                                            |
+| [![GitHub stars](https://img.shields.io/github/stars/sail-sg/envpool)](https://github.com/sail-sg/envpool/stargazers) | EnvPool   | cpp             | Atari, Mujoco, ViZDoom, Classic control, Toy Text, Compilable environment | https://github.com/sail-sg/envpool                           | -                                                            |
+| [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/ELF)](https://github.com/facebookresearch/ELF/stargazers) | ELF       | cpp             | Game in cpp, MiniRTS                                         | https://github.com/facebookresearch/ELF                      | ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games |
+| [![GitHub stars](https://img.shields.io/github/stars/NVlabs/cule)](https://github.com/NVlabs/cule/stargazers) | Cule      | gpu             | Atari                                                        | https://github.com/NVlabs/cule                               | Accelerating reinforcement learning through gpu atari emulation |
+| [![GitHub stars](https://img.shields.io/github/stars/google/brax)](https://github.com/google/brax/stargazers) | Brax      | gpu             | robot                                                        | https://github.com/google/brax                               | Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation |
+| [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-Omniverse/IsaacGymEnvs)](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/stargazers) | Isaac-gym | gpu             | robot                                                        | 1: https://github.com/NVIDIA-Omniverse/IsaacGymEnvs 2：https://developer.nvidia.com/isaac-gym | Isaac Gym: High Performance GPU Based Physics Simulation For Robot Learning |
+| [![GitHub stars](https://img.shields.io/github/stars/salesforce/warp-drive)](https://github.com/salesforce/warp-drive/stargazers) | WarpDrive | gpu             | multiagent                                                   | https://github.com/salesforce/warp-drive                     | WARPDRIVE: EXTREMELY FAST END-TO-END DEEP MULTI-AGENT REINFORCEMENT LEARNING ON A GPU |
+| [![GitHub stars](https://img.shields.io/github/stars/Bam4d/Griddly)](https://github.com/Bam4d/Griddly/stargazers) | griddly   | cpp             | grid-world game                                              | https://github.com/Bam4d/Griddly                             | -                                                            |
