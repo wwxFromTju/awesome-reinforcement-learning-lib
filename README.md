@@ -124,13 +124,13 @@
 
 
 # RL Accelerated Env
-| Star                                                         | Name      | Accelerate Type | Property                              | Source                                                       |
-| ------------------------------------------------------------ | --------- | --------------- | ------------------------------------- | ------------------------------------------------------------ |
-| /                                                            | vec_env   | subproc         | all                                   | eg: https://github.com/openai/baselines/tree/master/baselines/common/vec_env |
-| [![GitHub stars](https://img.shields.io/github/stars/sail-sg/envpool)](https://github.com/sail-sg/envpool) | EnvPool   | cpp             | Atari, Mujoco, Compilable environment | https://github.com/sail-sg/envpool                           |
-| [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/ELF)](https://github.com/facebookresearch/ELF) | ELF       | cpp             | Game in cpp, MiniRTS                  | ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games |
-| [![GitHub stars](https://img.shields.io/github/stars/NVlabs/cule)](https://github.com/NVlabs/cule) | Cule      | gpu             | Atari                                 | Accelerating reinforcement learning through gpu atari emulation |
-| [![GitHub stars](https://img.shields.io/github/stars/google/brax)](https://github.com/google/brax) | Brax      | gpu             | robot                                 | Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation |
-| [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-Omniverse/IsaacGymEnvs)](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) | Isaac-gym | gpu             | robot                                 | Isaac Gym: High Performance GPU Based Physics Simulation For Robot Learning |
-| [![GitHub stars](https://img.shields.io/github/stars/salesforce/warp-drive)](https://github.com/salesforce/warp-drive) | WarpDrive | gpu             | multiagent                            | WARPDRIVE: EXTREMELY FAST END-TO-END DEEP MULTI-AGENT REINFORCEMENT LEARNING ON A GPU |
-| [![GitHub stars](https://img.shields.io/github/stars/Bam4d/Griddly)](https://github.com/Bam4d/Griddly) | griddly   | cpp             | grid-world game                       | https://github.com/Bam4d/Griddly                             |
+| Star                                                         | Name      | Accelerate Type                                              | Property                              |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | ------------------------------------- |
+| /                                                            | vec_env   | [subproc](https://github.com/openai/baselines/tree/master/baselines/common/vec_env) | all                                   |
+| [![GitHub stars](https://img.shields.io/github/stars/sail-sg/envpool)](https://github.com/sail-sg/envpool) | EnvPool   | cpp                                                          | Atari, Mujoco, Compilable environment |
+| [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/ELF)](https://github.com/facebookresearch/ELF) | ELF       | cpp                                                          | Game in cpp, MiniRTS                  |
+| [![GitHub stars](https://img.shields.io/github/stars/NVlabs/cule)](https://github.com/NVlabs/cule) | Cule      | gpu                                                          | Atari                                 |
+| [![GitHub stars](https://img.shields.io/github/stars/google/brax)](https://github.com/google/brax) | Brax      | gpu                                                          | robot                                 |
+| [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-Omniverse/IsaacGymEnvs)](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) | Isaac-gym | gpu                                                          | robot                                 |
+| [![GitHub stars](https://img.shields.io/github/stars/salesforce/warp-drive)](https://github.com/salesforce/warp-drive) | WarpDrive | gpu                                                          | multiagent                            |
+| [![GitHub stars](https://img.shields.io/github/stars/Bam4d/Griddly)](https://github.com/Bam4d/Griddly) | griddly   | cpp                                                          | grid-world game                       |
