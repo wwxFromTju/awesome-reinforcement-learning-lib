@@ -5,7 +5,7 @@
 [RL Accelerated Env](#rl-accelerated-env)
 
 ## RL Lib
-| Star                                                         | Name                                                | Library                       |
+| Star                                                         | Name                                                | Backend                       |
 | ------------------------------------------------------------ | --------------------------------------------------- | ----------------------------- |
 | [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray)](https://github.com/ray-project/ray) | Ray-RLLib                                           | pytorch, tensorflow-2.x       |
 | [![GitHub stars](https://img.shields.io/github/stars/openai/baselines)](https://github.com/openai/baselines) | baselines                                           | tesorflow-1.x                 |
@@ -68,8 +68,8 @@
 | [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rlstructures)](https://github.com/facebookresearch/rlstructures) | rlstructures                                        | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/RITCHIEHuang/DeepRL_Algorithms)](https://github.com/RITCHIEHuang/DeepRL_Algorithms) | DeepRL_Algorithms                                   | pytorch, tensorflow-2.x       |
 | [![GitHub stars](https://img.shields.io/github/stars/huawei-noah/xingtian)](https://github.com/huawei-noah/xingtian) | xingtian                                            | tesorflow-1.x                 |
-| [![GitHub stars](https://img.shields.io/github/stars/david-abel/simple_rl)](https://github.com/david-abel/simple_rl) | simple_rl                                           | numpy                         |
 | [![GitHub stars](https://img.shields.io/github/stars/DeNA/HandyRL)](https://github.com/DeNA/HandyRL) | HandyRL                                             | pytorch                       |
+| [![GitHub stars](https://img.shields.io/github/stars/david-abel/simple_rl)](https://github.com/david-abel/simple_rl) | simple_rl                                           | numpy                         |
 | [![GitHub stars](https://img.shields.io/github/stars/Denys88/rl_games)](https://github.com/Denys88/rl_games) | RL Games                                            | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/Stable-Baselines-Team/stable-baselines)](https://github.com/Stable-Baselines-Team/stable-baselines) | stable-baselines                                    | tesorflow-1.x                 |
 | [![GitHub stars](https://img.shields.io/github/stars/rll-research/url_benchmark)](https://github.com/rll-research/url_benchmark) | url_benchmark                                       | pytorch                       |
@@ -85,12 +85,12 @@
 | [![GitHub stars](https://img.shields.io/github/stars/tencent-ailab/tleague_projpage)](https://github.com/tencent-ailab/tleague_projpage) | tleague_projpagepage                                | tesorflow-1.x                 |
 | [![GitHub stars](https://img.shields.io/github/stars/uoe-agents/epymarl)](https://github.com/uoe-agents/epymarl) | epymarl                                             | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/google/deluca)](https://github.com/google/deluca) | deluca                                              | jax                           |
-| [![GitHub stars](https://img.shields.io/github/stars/cyoon1729/distributedRL)](https://github.com/cyoon1729/distributedRL) | distributedRL                                       | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/google-research/rlds)](https://github.com/google-research/rlds) | RLDS                                                | tensorflow-2.x                |
 | [![GitHub stars](https://img.shields.io/github/stars/rlberry-py/rlberry)](https://github.com/rlberry-py/rlberry) | rlberry                                             | jax, pytorch                  |
-| [![GitHub stars](https://img.shields.io/github/stars/ethanluoyc/magi)](https://github.com/ethanluoyc/magi) | magi                                                | jax                           |
+| [![GitHub stars](https://img.shields.io/github/stars/cyoon1729/distributedRL)](https://github.com/cyoon1729/distributedRL) | distributedRL                                       | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/coax-dev/coax)](https://github.com/coax-dev/coax) | coax                                                | jax                           |
 | [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rela)](https://github.com/facebookresearch/rela) | rela                                                | pytorch                       |
+| [![GitHub stars](https://img.shields.io/github/stars/ethanluoyc/magi)](https://github.com/ethanluoyc/magi) | magi                                                | jax                           |
 | [![GitHub stars](https://img.shields.io/github/stars/spitis/mrl)](https://github.com/spitis/mrl) | mrl                                                 | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/sony/nnabla-rl)](https://github.com/sony/nnabla-rl) | nnabla-rl                                           | nnabla                        |
 | [![GitHub stars](https://img.shields.io/github/stars/Ericonaldo/ILSwiss)](https://github.com/Ericonaldo/ILSwiss) | ILSwiss                                             | pytorch                       |
