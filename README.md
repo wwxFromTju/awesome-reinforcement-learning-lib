@@ -4,6 +4,8 @@
 
 [RL Accelerated Env](#rl-accelerated-env)
 
+Click the star icon to the left of the library name to jump to the specific library page
+
 ## RL Lib
 | Star                                                         | Name                                                | Backend                       |
 | ------------------------------------------------------------ | --------------------------------------------------- | ----------------------------- |
