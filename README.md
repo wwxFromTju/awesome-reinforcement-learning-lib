@@ -89,6 +89,7 @@
 | [![GitHub stars](https://img.shields.io/github/stars/rlberry-py/rlberry)](https://github.com/rlberry-py/rlberry) | rlberry                                             | jax, pytorch                  |
 | [![GitHub stars](https://img.shields.io/github/stars/cyoon1729/distributedRL)](https://github.com/cyoon1729/distributedRL) | distributedRL                                       | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/coax-dev/coax)](https://github.com/coax-dev/coax) | coax                                                | jax                           |
+| [![GitHub stars](https://img.shields.io/github/stars/schatty/d4pg-pytorch)](https://github.com/schatty/d4pg-pytorch) | d4pg-pytorch                                             | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/rela)](https://github.com/facebookresearch/rela) | rela                                                | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/ethanluoyc/magi)](https://github.com/ethanluoyc/magi) | magi                                                | jax                           |
 | [![GitHub stars](https://img.shields.io/github/stars/spitis/mrl)](https://github.com/spitis/mrl) | mrl                                                 | pytorch                       |
