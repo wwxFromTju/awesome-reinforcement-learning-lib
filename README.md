@@ -124,6 +124,8 @@
 | [![GitHub stars](https://img.shields.io/github/stars/RedTachyon/coltra-rl)](https://github.com/RedTachyon/coltra-rl/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/RedTachyon/coltra-rl?label=last%20update) | [coltra-rl](https://github.com/RedTachyon/coltra-rl/)        | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/semitable/fast-marl)](https://github.com/semitable/fast-marl/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/semitable/fast-marl?label=last%20update) | [fast-marl](https://github.com/semitable/fast-marl/)         | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/cpuheater/cause-life-is-a-game)](https://github.com/cpuheater/cause-life-is-a-game/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/cpuheater/cause-life-is-a-game?label=last%20update) | [cause-life-is-a-game](https://github.com/cpuheater/cause-life-is-a-game/) | pytorch                       |
+| [![GitHub stars](https://img.shields.io/github/stars/kchua/mbrl-jax)](https://github.com/kchua/mbrl-jax/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/kchua/mbrl-jax?label=last%20update) | [mbrl-jax](https://github.com/kchua/mbrl-jax/) | jax       |
+
 
 
 ## RL Accelerated Environment
