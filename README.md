@@ -141,6 +141,7 @@
 | [![GitHub stars](https://img.shields.io/github/stars/cpuheater/cause-life-is-a-game)](https://github.com/cpuheater/cause-life-is-a-game/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/cpuheater/cause-life-is-a-game?label=last%20update) | [cause-life-is-a-game](https://github.com/cpuheater/cause-life-is-a-game/) | pytorch                       |
 | [![GitHub stars](https://img.shields.io/github/stars/FrankTianTT/causal-mbrl)](https://github.com/FrankTianTT/causal-mbrl/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/FrankTianTT/causal-mbrl?label=last%20update) | [causal-mbrl](https://github.com/FrankTianTT/causal-mbrl/) | pytorch       |
 | [![GitHub stars](https://img.shields.io/github/stars/kchua/mbrl-jax)](https://github.com/kchua/mbrl-jax/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/kchua/mbrl-jax?label=last%20update) | [mbrl-jax](https://github.com/kchua/mbrl-jax/) | jax       |
+| [![GitHub stars](https://img.shields.io/github/stars/Shanghai-Digital-Brain-Laboratory/DB-Football)](https://github.com/Shanghai-Digital-Brain-Laboratory/DB-Football/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/Shanghai-Digital-Brain-Laboratory/DB-Football?label=last%20update) | [DB-Football](https://github.com/Shanghai-Digital-Brain-Laboratory/DB-Football) | pytorch       |
 
 
 
